@@ -36,7 +36,7 @@ const Signup = () => {
   }, [success, navigate]);
 
   return (
-    <section className="flex justify-center items-center h-screen">
+    <section className="flex justify-center items-center h-screen bg-gradient-to-r from-indigo-400 to-cyan-200">
       <form onSubmit={handelSubmit} className="flex flex-col gap-y-4 lg:w-1/4 md:w-1/3 sm:w-3/4">
         <h2 className="text-center text-blue-700">Create Your Account Here!</h2>
         <div>
