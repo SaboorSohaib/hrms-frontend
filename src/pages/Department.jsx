@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Department = () => (
-  <section id="department">Department</section>
+  <section id="departments">Department</section>
 );
 
 export default Department;
