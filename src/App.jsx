@@ -8,7 +8,7 @@ import { NavbarProvider } from './components/NavbarContext';
 const App = () => {
   const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);
   return (
-    <div>
+    <div className="h-full">
       <NavbarProvider>
         {/* All routes should be inside NavbarProvider */}
         {isAuthenticated ? (
