@@ -34,3 +34,39 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
+<!-- PROJECT DESCRIPTION -->
+
+
+# 📖 Human Resource Management System Project <a name="about-project"></a>
+
+> This is a full-stack project. In which you can register yourself create a user, project and a department. create project for a department and update them
+
+### [Human Resource Management System API Repository link](https://github.com/SaboorSohaib/hrms-backend)
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>React</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>Ruby on Rails</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>Postgresql</li>
+  </ul>
+</details>
+
+<!-- Features -->
