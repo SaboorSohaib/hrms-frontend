@@ -70,3 +70,12 @@
 </details>
 
 <!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- User can register himself.
+- Add a employee.
+- Add department and projects.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
