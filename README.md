@@ -79,3 +79,47 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```
+
+ - Laptop/Desktop.
+ - Internet.
+ - Node.js.
+ - Vs Code.
+
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+ - mkdir my-folder
+ - cd my-folder
+ - git clone https://github.com/SaboorSohaib/hrms-frontend.git
+ - cd hrms-frontend
+ - npm install
+
+```
+### Usage
+
+To run the project, execute the following command:
+
+- npm start
+
+### Check Linter 
+
+- npx eslint .
+- npx stylelint "**/*.{css,scss}"
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
