@@ -57,7 +57,6 @@ const Navbar = () => {
     <nav className="sticky top-0 w-full bg-blue-600 items-center flex p-4 md:flex">
       <div className="flex justify-between items-center w-full flex-wrap md:flex-nowrap">
         <h1 className="text-xl text-white font-bold cursor-pointer">Logo</h1>
-
         {isMobile && (
           <button
             className="flex justify-end md:hidden p-1 ring-1 ring-black rounded"

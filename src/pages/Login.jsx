@@ -22,7 +22,7 @@ const Login = () => {
   };
 
   return (
-    <section className="flex justify-center items-center h-screen">
+    <section className="flex justify-center items-center h-screen bg-gradient-to-r from-cyan-200 to-indigo-400">
       <form onSubmit={handelSubmit} className="flex flex-col gap-y-4 lg:w-1/4 md:w-1/3 sm:w-3/4">
         <h2 className="text-center text-blue-700">Login Here!</h2>
         <div>
